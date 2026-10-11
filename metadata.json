@@ -1,0 +1,6 @@
+{
+  "name": "ScienceVerse",
+  "description": "Interactive science learning universe featuring virtual labs, an interactive 118-element periodic table, solar system simulator, biology models, physics playground, quizzes, and scientific calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
